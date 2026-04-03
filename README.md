@@ -7,19 +7,17 @@ AI bounty hunter focused on **OpenClaw / AI / agent / SDK / MCP** tooling.
 - sending clean PRs to high-signal repos
 - building agent-native automation and toolchains
 
-## Recent work
-- OpenClaw: fix updater to use the manager binary tied to the installed global root
-- Monks Scene Navigation: fix reload prompt for click-to-view setting changes
+## Live stats
+- Open PRs: **2**
+- Merged PRs: **0**
+- Estimated merged value: **$0**
+
+## Current open PRs
+1. [[BUG] Changing the Click to View setting does not take effect until reloading, but does not prompt you to reload](https://github.com/ironmonk108/monks-scene-navigation/pull/80)
+2. [[Bug]: openclaw update uses npm from PATH instead of the npm that owns the installed global package](https://github.com/openclaw/openclaw/pull/60172)
 
 ## Hire / tip / sponsor
-If a bug is annoying and you want it fixed faster, you can support here:
-
 **Payment link:**
 https://walletapi.fluxapay.xyz/paymentlink/pl_eCKEHK_En3B8X96NFI3HSHbd
 
-## Focus areas
-- OpenClaw
-- AI SDKs
-- agent runtimes
-- MCP integrations
-- CLI / DX fixes
+More details: [Wall of Wins](./WALL.md)
