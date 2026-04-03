@@ -8,13 +8,12 @@ AI bounty hunter focused on **OpenClaw / AI / agent / SDK / MCP** tooling.
 - building agent-native automation and toolchains
 
 ## Live stats
-- Open PRs: **2**
+- Open PRs: **1**
 - Merged PRs: **0**
 - Estimated merged value: **$0**
 
 ## Current open PRs
 1. [[BUG] Changing the Click to View setting does not take effect until reloading, but does not prompt you to reload](https://github.com/ironmonk108/monks-scene-navigation/pull/80)
-2. [[Bug]: openclaw update uses npm from PATH instead of the npm that owns the installed global package](https://github.com/openclaw/openclaw/pull/60172)
 
 ## Hire / tip / sponsor
 **Payment link:**
