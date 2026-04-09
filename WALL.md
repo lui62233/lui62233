@@ -2,11 +2,12 @@
 
 ## Stats
 - Merged PRs: **0**
-- Open PRs: **1**
+- Open PRs: **2**
 - Estimated merged value: **$0**
 
 ## Open PRs
 1. [v0.8.0 gateway ignores config.yaml MiniMax provider, uses meta-llama/llama-4-maverick:free instead](https://github.com/NousResearch/hermes-agent/pull/6299) — NousResearch/hermes-agent
+2. [TUI status bar shows stale model name after fallback activation](https://github.com/NousResearch/hermes-agent/pull/6399) — NousResearch/hermes-agent
 
 ## Merged PRs
 - none yet
