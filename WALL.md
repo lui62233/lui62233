@@ -16,3 +16,18 @@
 If you want a fix shipped faster, support here:
 
 https://walletapi.fluxapay.xyz/paymentlink/pl_eCKEHK_En3B8X96NFI3HSHbd
+
+
+## Priority families after merge
+- [object Object]
+- [object Object]
+
+## Priority repos after merge
+- [object Object]
+- [object Object]
+- [object Object]
+
+## Merge whitelist
+- facebook/react
+- microsoft/vscode
+- nodejs/node
